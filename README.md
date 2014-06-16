@@ -1,4 +1,4 @@
-It's a Lisp in Python that works as a compiler that spits out DCPU16. Because I have nothing better to do.
+It's a Lisp in Python that works as a compiler that spits out DCPU16 assembly. Because I have nothing better to do.
 
 * This is bad code.
 * This is undocumented code.
